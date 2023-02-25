@@ -4,7 +4,7 @@
 
     <item
         android:id="@+id/ejercicio1"
-        android:title="ejercicio1" />
-    <item android:title="Item" />
-    <item android:title="Item" />
+        android:title="@string/item1_nombre" />
+    <item android:title="@string/item2_nombre" />
+    <item android:title="@string/item3_nombre" />
 </menu>
