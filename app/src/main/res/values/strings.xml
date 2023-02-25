@@ -3,4 +3,22 @@
     <string name="item1_nombre">Ejercicio 1</string>
     <string name="item2_nombre">Ejercicio 2</string>
     <string name="item3_nombre">Ejercicio 3</string>
+
+    <!-- para los textView -->
+    <string name="Promedio_titulo">Promedio De Notas</string>
+    <string name="Promedio_lbl_promedio">El promedio es: </string>
+
+    <!-- para los InputPlainText -->
+    <string name="Promedio_txt_nombre">Nombre del alumno</string>
+
+    <!--para los textNumber-->
+    <string name="Promedio_txt_nota1">Nota 1</string>
+    <string name="Promedio_txt_nota2">Nota 2</string>
+    <string name="Promedio_txt_nota3">Nota 3</string>
+    <string name="Promedio_txt_nota4">Nota 4</string>
+    <string name="Promedio_txt_nota5">Nota 5</string>
+
+    <!-- para los btn -->
+    <string name="Promedio_btn_calcular">Calcular</string>
+
 </resources>
