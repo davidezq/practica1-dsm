@@ -1,4 +1,4 @@
-# practica1-dsm
+# Desafio 1
 Aplicación que permite obtener el promedio de 5 notas, salario neto y operaciones básicas de una calculadora
 
 ## Herramientas de desarrollo 🧰
