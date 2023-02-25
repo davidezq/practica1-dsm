@@ -4,7 +4,15 @@
 
     <item
         android:id="@+id/ejercicio1"
-        android:title="@string/item1_nombre" />
-    <item android:title="@string/item2_nombre" />
-    <item android:title="@string/item3_nombre" />
+        android:title="@string/item1_nombre"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ejercicio2"
+        android:title="@string/item2_nombre"
+        app:showAsAction="never"/>
+    <item
+        android:id="@+id/ejercicio3"
+        android:title="@string/item3_nombre"
+        app:showAsAction="never"/>
+
 </menu>
