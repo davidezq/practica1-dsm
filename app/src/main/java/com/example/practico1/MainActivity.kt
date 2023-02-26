@@ -19,11 +19,24 @@ class MainActivity : AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         val id = item.itemId
-        if(id == R.id.ejercicio1){
-            val intent = Intent(this, Promedio::class.java,)
-            intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
-            startActivity(intent)
+        when(id){
+            R.id.ejercicio1 -> {
+                val intent = Intent(this, Promedio::class.java,)
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
+                startActivity(intent)
+            }
+            R.id.ejercicio2 -> {
+                val intent = Intent(this,SalarioNeto::class.java)
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
+                startActivity(intent)
+            }
+            R.id.ejercicio3 -> {
+                val intent = Intent(this, Calculadora::class.java)
+                intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP)
+                startActivity(intent)
+            }
         }
+
         return super.onOptionsItemSelected(item)
     }
 }

@@ -8,8 +8,15 @@
     <string name="Promedio_titulo">Promedio De Notas</string>
     <string name="Promedio_lbl_promedio">El promedio es: </string>
 
+    <string name="Salario_titulo">Salario Neto</string>
+    <string name="Salario_lbl_neto">Salario Neto es ...</string>
+
+    <string name="Calculadora_titulo">Calculadora</string>
+    <string name="Calculadora_lbl_resultado">Resultado:</string>
+
     <!-- para los InputPlainText -->
     <string name="Promedio_txt_nombre">Nombre del alumno</string>
+    <string name="Salario_txt_nombre">Nombre del trabajador</string>
 
     <!--para los textNumber-->
     <string name="Promedio_txt_nota1">Nota 1</string>
@@ -18,7 +25,12 @@
     <string name="Promedio_txt_nota4">Nota 4</string>
     <string name="Promedio_txt_nota5">Nota 5</string>
 
+    <string name="Salario_txt_salarioBase">Salario Base</string>
+
+    <string name="Calculadora_txt_numero1">Número 1</string>
+    <string name="Calculadora_txt_numero2">Número 2</string>
+
     <!-- para los btn -->
     <string name="Promedio_btn_calcular">Calcular</string>
-
+    <string name="Salario_btn_calcular">Calcular</string>
 </resources>
