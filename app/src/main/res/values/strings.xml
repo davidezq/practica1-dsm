@@ -33,4 +33,5 @@
     <!-- para los btn -->
     <string name="Promedio_btn_calcular">Calcular</string>
     <string name="Salario_btn_calcular">Calcular</string>
+    <string name="Calculadora_btn_operar">Realizar operación</string>
 </resources>
